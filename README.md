@@ -24,4 +24,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav94g&theme=radical" alt="gaurav94g"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav94g&show_icons=true&locale=en&theme=radical" alt="gaurav94g"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav94g&show_icons=true&locale=en&layout=compact&theme=radical" alt="gaurav94g"/>
 </p>
